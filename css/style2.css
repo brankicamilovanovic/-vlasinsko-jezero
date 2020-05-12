@@ -1,0 +1,61 @@
+
+
+body{
+	
+	
+	background: #08EFF5;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+     color: black;
+	
+}
+
+	
+
+ul{
+
+margin: 2px;
+padding: 2px;
+list-style: none;
+text-align: center;
+
+
+	
+}
+
+ul li {
+
+	float: left;
+	width: 300px;
+	height: 40px;
+	background-color: black;
+	color: white;
+	opacity: .8;
+	text-align: center;
+	font-size: 30px;
+	margin-right: 2px;
+
+}
+
+ul li a{
+	
+	text-decoration: none;
+	color: navajowhite;
+	display: block;
+	
+	
+}
+
+ul li a:hover {
+	
+	background-color: green;
+	
+	
+	
+}
+
+
+h1{
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+}
